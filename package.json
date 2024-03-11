@@ -2,7 +2,7 @@
   "name": "rent-acar-front-end",
   "version": "0.0.0",
   "publishConfig" : {
-    "registry" : "http://16.16.200.152:8081/repository/venkat/"
+    "registry" : "http://13.51.13.213:8081/repository/venkatesh/"
   },
   "scripts": {
     "ng": "ng",
