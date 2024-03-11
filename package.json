@@ -5,9 +5,6 @@
     "registry" : "http://13.51.13.213:8081/repository/venkatesh/"
   },
   "scripts": {
-    "sonar": "sonar-scanner -X"
-  },
-  "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
