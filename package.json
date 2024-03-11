@@ -11,7 +11,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "sonar": "sonarqube-scanner"
+    "sonar": "node sonarqube-scanner.properties"
   },
   "private": false,
   "dependencies": {
